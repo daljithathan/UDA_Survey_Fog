@@ -1,0 +1,13 @@
+names:
+- person
+- rider
+- car
+- truck
+- bus
+- train
+- motorcycle
+- bicycle
+nc: 8
+path: /home/daljit/datasets/cityscapes_yolo/cityscapes_yolo
+train: images/train
+val: images/val

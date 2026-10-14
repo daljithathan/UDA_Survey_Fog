@@ -1,0 +1,13 @@
+names:
+- person
+- rider
+- car
+- truck
+- bus
+- train
+- motorcycle
+- bicycle
+nc: 8
+path: /home/daljit/datasets/foggy_cs_yolo/foggy_cs_yolo
+train: images/train
+val: images/val
