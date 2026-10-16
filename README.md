@@ -1,4 +1,4 @@
-# UDA of Object Detectors for Adverse Weather — Illustrative Experiments
+# UDA for Object Detection in Adverse Weather - Illustrative Experiments
 
 This repository contains the code, configurations, training logs and figures for the illustrative experiments (Figs. 1 and 2) in:
 
