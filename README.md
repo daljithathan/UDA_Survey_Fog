@@ -2,7 +2,7 @@
 
 This repository contains the code, configurations, training logs and figures for the illustrative experiments (Figs. 1 and 2) in:
 
-> D. Singh, A. P. S. Chauhan, A. Singla, *Unsupervised Domain Adaptation of Object Detectors for Adverse Weather: A Survey with Emphasis on Fog and Haze* (under review).
+> D. Singh, A. P. S. Chauhan, A. Singla, *Unsupervised Domain Adaptation for Object Detection in Adverse Weather: A Review with Emphasis on Fog and Haze* (under review).
 
 The experiments quantify the domain gap that unsupervised domain adaptation (UDA) aims to close: a YOLOv8s detector trained on clear Cityscapes images is evaluated on Foggy Cityscapes (β = 0.02) and compared with a fully supervised oracle trained on the foggy images.
 
