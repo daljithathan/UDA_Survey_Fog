@@ -1,0 +1,7 @@
+train:
+  - /home/daljit/datasets/fcs_b0.005/images/train
+  - /home/daljit/datasets/fcs_b0.01/images/train
+  - /home/daljit/datasets/fcs_b0.02/images/train
+val: /home/daljit/datasets/fcs_b0.02/images/val
+nc: 8
+names: [person, rider, car, truck, bus, train, motorcycle, bicycle]

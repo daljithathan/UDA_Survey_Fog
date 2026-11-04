@@ -1,0 +1,5 @@
+path: /home/daljit/datasets/fd_yolo
+train: images/test
+val: images/test
+names: [person, rider, car, truck, bus, train, motorcycle, bicycle]
+nc: 8
